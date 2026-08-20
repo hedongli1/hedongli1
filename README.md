@@ -9,18 +9,22 @@
 
 <div align="center">
 
-<!-- 打字机动画标题：四句英文轮播，逐字打出；想改文案/速度就改 lines 和 duration -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=F5A623&center=true&vCenter=true&width=640&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
+<!-- 打字机动画标题：四句英文轮播，逐字打出；改文案就改 lines，改速度改 duration -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2600&pause=1000&color=F5A623&center=true&vCenter=true&width=680&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
 
-<!-- TODO：有邮箱就补一个 Email 徽章 -->
-[![GitHub](https://img.shields.io/badge/GitHub-hedongli1-F5A623?style=flat-square&logo=github&logoColor=white)](https://github.com/hedongli1)
-[![Blog](https://img.shields.io/badge/Blog-hedongli1.github.io-EA580C?style=flat-square&logo=jekyll&logoColor=white)](https://hedongli1.github.io)
+<!-- 访问计数 + 社交徽章 -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hedongli1&color=F5A623&label=VISITORS&style=flat-square" alt="访问量" />
+  <a href="https://github.com/hedongli1"><img src="https://img.shields.io/badge/GitHub-hedongli1-F5A623?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://hedongli1.github.io"><img src="https://img.shields.io/badge/Blog-hedongli1.github.io-EA580C?style=flat-square&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <!-- TODO：有邮箱就补一个 Email 徽章 -->
+</p>
 
 </div>
 
 ---
 
-## 关于我 · About
+## 👤 关于我 · About
 
 持续学习、持续构建的开发者。喜欢把想法变成能跑起来的代码，再把过程中的思考沉淀成文字。
 
@@ -33,17 +37,17 @@ I'm a developer who learns by building. I turn ideas into working code, then wri
 
 ---
 
-## 技术栈 · Tech Stack
+## 🛠 技术栈 · Tech Stack
 
-<!-- TODO：换成你的真实技术栈（图标名见 skillicons.dev，逗号分隔，按需增删） -->
+<!-- TODO：换成你的真实技术栈（图标名见 skillicons.dev，逗号分隔，perline 控制每行个数） -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,python,go,docker,postgres,redis,git,linux&perline=6" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,python,go,docker,postgres,redis,git,linux,github,vscode&perline=7" alt="技术栈" />
 </p>
 
 ---
 
-## 精选项目 · Featured Projects
+## 📌 精选项目 · Featured Projects
 
 <!-- TODO：把「项目一 / 项目二」换成你的真实仓库名、简介和链接；没有仓库时先留空，建好再补 -->
 
@@ -56,9 +60,7 @@ I'm a developer who learns by building. I turn ideas into working code, then wri
 
 ---
 
-## GitHub 统计 · Stats
-
-<!-- 数据会随你的仓库和提交自动增长 -->
+## 📈 GitHub 统计 · Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hedongli1&show_icons=true&bg_color=1A120A&title_color=F5A623&text_color=F6EFE4&icon_color=F5A623&hide_border=true&rank_icon=github" alt="GitHub 统计" />
@@ -68,6 +70,23 @@ I'm a developer who learns by building. I turn ideas into working code, then wri
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hedongli1&background=1A120A&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=8E8373&dates=8E8373&hide_border=true" alt="连续贡献" />
 </div>
+
+---
+
+## 🏆 成就奖杯 · Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hedongli1&theme=gruvbox&no-frame=true&column=6&row=1" alt="奖杯" />
+</div>
+
+---
+
+## 🐍 贡献蛇形图 · Contribution Snake
+
+<!-- 每天由 .github/workflows/snake.yml 自动更新 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hedongli1/hedongli1/output/github-contribution-grid-snake-dark.svg" alt="贡献蛇形图" />
+</p>
 
 ---
 
