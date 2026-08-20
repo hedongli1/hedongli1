@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<!-- 打字机动画标题：四句话轮播，逐字打出；想改文案/速度就改 lines 和 duration -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=F5A623&center=true&vCenter=true&width=640&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E7%81%B5%E6%84%9F%E4%B9%8B%E9%97%B4%E6%90%AD%E5%BB%BA%E6%A1%A5%E6%A2%81;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%20%C2%B7%20%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA" alt="Hi, I'm hedongli1" />
+<!-- 打字机动画标题：四句英文轮播，逐字打出；想改文案/速度就改 lines 和 duration -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=F5A623&center=true&vCenter=true&width=640&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
 
 <!-- TODO：有邮箱就补一个 Email 徽章 -->
 [![GitHub](https://img.shields.io/badge/GitHub-hedongli1-F5A623?style=flat-square&logo=github&logoColor=white)](https://github.com/hedongli1)
