@@ -9,6 +9,9 @@
 
 <div align="center">
 
+<!-- 顶部横幅：深色琥珀开发者氛围图 -->
+<img src="banner.png" width="100%" alt="hedongli1 · banner" />
+
 <!-- 打字机动画标题：四句英文轮播，逐字打出；改文案就改 lines，改速度改 duration -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2600&pause=1000&color=F5A623&center=true&vCenter=true&width=680&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
 
