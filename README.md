@@ -4,16 +4,16 @@
   ──────────────────────────────────────────────────────────────
   使用方法：把这个文件放到名叫 hedongli1/hedongli1 的仓库根目录。
   所有标记「TODO」的地方，用你的真实信息替换后重新提交即可。
+
+  说明：为保持纯净、避免突兀的图片，本主页不放大图，全部用
+  打字机标题 + 徽章 + markdown 排版美化（GitHub 主页不支持自定义 CSS）。
   ══════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<!-- 顶部横幅：深色琥珀开发者氛围图 -->
-<img src="banner.png" width="100%" alt="hedongli1 · banner" />
-
-<!-- 打字机动画标题：四句英文轮播，逐字打出；改文案就改 lines，改速度改 duration -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2600&pause=1000&color=F5A623&center=true&vCenter=true&width=680&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
+<!-- 打字机动画标题（SVG 动画文字，不是静态图片，和文字流融为一体） -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=2600&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
 
 <!-- 访问计数 + 社交徽章 -->
 <p>
@@ -24,17 +24,15 @@
 
 </div>
 
----
+<!-- 终端风格介绍块：markdown 原生，无需图片，自带科技感 -->
+```console
+hedongli1@github:~$ whoami
+> Software Developer · 在代码与灵感之间搭建桥梁
 
-## 关于我 · About
-
-持续学习、持续构建的开发者。喜欢把想法变成能跑起来的代码，再把过程中的思考沉淀成文字。
-
-I'm a developer who learns by building. I turn ideas into working code, then write down what I learned along the way.
-
-<!-- TODO：把下面两条换成你的真实状态 -->
-- **目前在做**：探索前后端与工程化，记录项目与笔记
-- **正在学习**：持续扩充技术栈
+hedongli1@github:~$ cat ./about.md
+> 持续学习、持续构建。把想法变成能跑起来的代码，再把思考沉淀成文字。
+> A developer who learns by building.
+```
 
 ---
 
@@ -50,7 +48,7 @@ I'm a developer who learns by building. I turn ideas into working code, then wri
 
 ## 精选项目 · Featured Projects
 
-<!-- TODO：把「项目一 / 项目二」换成你的真实仓库名、简介和链接；没有仓库时先留空，建好再补 -->
+<!-- TODO：把「项目一 / 项目二」换成你的真实仓库名、简介和链接；没有仓库时先建好再补 -->
 
 | 项目 | 简介 | 技术 | 链接 |
 |------|------|------|------|
