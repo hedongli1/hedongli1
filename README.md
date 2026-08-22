@@ -48,12 +48,12 @@ hedongli1@github:~$ cat ./about.md
 
 ## 精选项目 · Featured Projects
 
-<!-- TODO：把「项目一 / 项目二」换成你的真实仓库名、简介和链接；没有仓库时先建好再补 -->
-
 | 项目 | 简介 | 技术 | 链接 |
 |------|------|------|------|
-| 项目一（TODO） | 一句话说清这个项目解决了什么问题 | TypeScript | [查看](https://github.com/hedongli1) |
-| 项目二（TODO） | 一句话说清这个项目解决了什么问题 | Python | [查看](https://github.com/hedongli1) |
+| 记账本 Ledger | 个人记账全栈应用：JWT 登录、收支管理、ECharts 统计图表，15 个端到端测试 | Vue3 · Express · SQLite | [查看](https://github.com/hedongli1/ledger-app) |
+| 紫队实验台 Purple Team Lab | 攻击模拟→检测验证：12 个 ATT&CK 场景 + Sigma-lite 规则引擎，覆盖率与缺口报告 | Vue3 · Express · SQLite | [查看](https://github.com/hedongli1/purple-team-lab) |
+
+> 更多项目持续构建中，欢迎关注仓库动态。
 
 ---
 
