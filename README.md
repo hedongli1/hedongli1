@@ -60,7 +60,8 @@ hedongli1@github:~$ cat ./about.md
 ## GitHub 统计 · Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hedongli1&show_icons=true&bg_color=1A120A&title_color=F5A623&text_color=F6EFE4&icon_color=F5A623&hide_border=true&rank_icon=github" alt="GitHub 统计" />
+  <!-- 统计卡：使用 stats.justsong.cn 国内镜像（github-readme-stats.vercel.app 在国内常被墙） -->
+  <img height="160" src="https://stats.justsong.cn/api/github?username=hedongli1&theme=gruvbox" alt="GitHub 统计" />
 </div>
 
 ---
