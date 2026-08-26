@@ -50,6 +50,7 @@ hedongli1@github:~$ cat ./about.md
 
 | 项目 | 简介 | 技术 | 状态 | 链接 |
 |------|------|------|------|------|
+| **aiscan** 🛡️ | AI 辅助代码安全审计：零依赖静态扫描 + 熵启发式密钥检测 + SARIF + GitHub Action，14 条规则 | Node.js | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/aiscan/ci.yml?label=CI)](https://github.com/hedongli1/aiscan/actions) [![tests](https://img.shields.io/badge/tests-10%20passed-brightgreen)](https://github.com/hedongli1/aiscan) | [查看](https://github.com/hedongli1/aiscan) |
 | 紫队实验台 Purple Team Lab | 攻击模拟→检测验证：12 个 ATT&CK 场景 + Sigma-lite 规则引擎，覆盖率与缺口报告 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/purple-team-lab/ci.yml?label=CI)](https://github.com/hedongli1/purple-team-lab/actions) | [查看](https://github.com/hedongli1/purple-team-lab) |
 | 记账本 Ledger | 个人记账全栈应用：JWT 登录、收支管理、ECharts 统计图表，15 个端到端测试 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/ledger-app/ci.yml?label=CI)](https://github.com/hedongli1/ledger-app/actions) | [查看](https://github.com/hedongli1/ledger-app) |
 
