@@ -38,20 +38,20 @@ hedongli1@github:~$ cat ./about.md
 
 ## 技术栈 · Tech Stack
 
-<!-- TODO：换成你的真实技术栈（图标名见 skillicons.dev，逗号分隔，perline 控制每行个数） -->
+> 均为仓库内真实用到的技术（见 [ledger-app](https://github.com/hedongli1/ledger-app) 与 [purple-team-lab](https://github.com/hedongli1/purple-team-lab)）
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,python,go,docker,postgres,redis,git,linux,github,vscode&perline=7" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,vue,express,sqlite,docker,nginx,git,github,linux&perline=5" alt="技术栈" />
 </p>
 
 ---
 
 ## 精选项目 · Featured Projects
 
-| 项目 | 简介 | 技术 | 链接 |
-|------|------|------|------|
-| 记账本 Ledger | 个人记账全栈应用：JWT 登录、收支管理、ECharts 统计图表，15 个端到端测试 | Vue3 · Express · SQLite | [查看](https://github.com/hedongli1/ledger-app) |
-| 紫队实验台 Purple Team Lab | 攻击模拟→检测验证：12 个 ATT&CK 场景 + Sigma-lite 规则引擎，覆盖率与缺口报告 | Vue3 · Express · SQLite | [查看](https://github.com/hedongli1/purple-team-lab) |
+| 项目 | 简介 | 技术 | 状态 | 链接 |
+|------|------|------|------|------|
+| 紫队实验台 Purple Team Lab | 攻击模拟→检测验证：12 个 ATT&CK 场景 + Sigma-lite 规则引擎，覆盖率与缺口报告 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/purple-team-lab/ci.yml?label=CI)](https://github.com/hedongli1/purple-team-lab/actions) | [查看](https://github.com/hedongli1/purple-team-lab) |
+| 记账本 Ledger | 个人记账全栈应用：JWT 登录、收支管理、ECharts 统计图表，15 个端到端测试 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/ledger-app/ci.yml?label=CI)](https://github.com/hedongli1/ledger-app/actions) | [查看](https://github.com/hedongli1/ledger-app) |
 
 > 更多项目持续构建中，欢迎关注仓库动态。
 
