@@ -58,6 +58,15 @@ hedongli1@github:~$ cat ./about.md
 
 ---
 
+## 📁 项目运维记录 · Docs
+
+从零构建与运维这套 GitHub 项目体系的完整过程记录，含真实数据与审计案例：
+
+- [初始部署：仓库初始化 + CI + 认证](https://github.com/hedongli1/hedongli1/blob/main/docs/01-初始部署.md)
+- [aiscan 创建：AI 代码安全审计工具从 0 到 1](https://github.com/hedongli1/hedongli1/blob/main/docs/02-aiscan创建.md)
+- [aiscan 实弹部署：首次接入 ledger-app 的失败与修复](https://github.com/hedongli1/hedongli1/blob/main/docs/03-aiscan实弹部署.md)
+- [aiscan 双项目接入：ledger-app 审计修复 + purple-team-lab 100/A 对照](https://github.com/hedongli1/hedongli1/blob/main/docs/04-aiscan双项目接入.md)
+
 ## GitHub 统计 · Stats
 
 <div align="center">
