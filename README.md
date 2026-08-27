@@ -66,6 +66,7 @@ hedongli1@github:~$ cat ./about.md
 - [aiscan 创建：AI 代码安全审计工具从 0 到 1](https://github.com/hedongli1/hedongli1/blob/main/docs/02-aiscan创建.md)
 - [aiscan 实弹部署：首次接入 ledger-app 的失败与修复](https://github.com/hedongli1/hedongli1/blob/main/docs/03-aiscan实弹部署.md)
 - [aiscan 双项目接入：ledger-app 审计修复 + purple-team-lab 100/A 对照](https://github.com/hedongli1/hedongli1/blob/main/docs/04-aiscan双项目接入.md)
+- [收官报告：发布就绪实测 + 全旅程总结](https://github.com/hedongli1/hedongli1/blob/main/docs/05-收官报告.md)
 
 ## GitHub 统计 · Stats
 
