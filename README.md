@@ -27,11 +27,11 @@
 <!-- 终端风格介绍块：markdown 原生，无需图片，自带科技感 -->
 ```console
 hedongli1@github:~$ whoami
-> Software Developer · 在代码与灵感之间搭建桥梁
+> 全栈开发者 · 专注安全工具与金融数据 Agent
 
 hedongli1@github:~$ cat ./about.md
 > 持续学习、持续构建。把想法变成能跑起来的代码，再把思考沉淀成文字。
-> A developer who learns by building.
+> 构建可验证的安全工具与全栈应用。A developer who learns by building.
 ```
 
 ---
@@ -53,6 +53,7 @@ hedongli1@github:~$ cat ./about.md
 | **aiscan** 🛡️ | AI 辅助代码安全审计：零依赖静态扫描 + 熵启发式密钥检测 + SARIF + GitHub Action，14 条规则 | Node.js | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/aiscan/ci.yml?label=CI)](https://github.com/hedongli1/aiscan/actions) [![tests](https://img.shields.io/badge/tests-10%20passed-brightgreen)](https://github.com/hedongli1/aiscan) | [查看](https://github.com/hedongli1/aiscan) |
 | 紫队实验台 Purple Team Lab | 攻击模拟→检测验证：12 个 ATT&CK 场景 + Sigma-lite 规则引擎，覆盖率与缺口报告 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/purple-team-lab/ci.yml?label=CI)](https://github.com/hedongli1/purple-team-lab/actions) | [查看](https://github.com/hedongli1/purple-team-lab) |
 | 记账本 Ledger | 个人记账全栈应用：JWT 登录、收支管理、ECharts 统计图表，15 个端到端测试 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/ledger-app/ci.yml?label=CI)](https://github.com/hedongli1/ledger-app/actions) | [查看](https://github.com/hedongli1/ledger-app) |
+| **fin-intel-agent** 📈 | 金融定时监控 Agent：动态排行榜监控池 + 五维深采集，聚合推送飞书 | Python · akshare | [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://github.com/hedongli1/fin-intel-agent) | [查看](https://github.com/hedongli1/fin-intel-agent) |
 
 > 更多项目持续构建中，欢迎关注仓库动态。
 
@@ -67,6 +68,7 @@ hedongli1@github:~$ cat ./about.md
 - [aiscan 实弹部署：首次接入 ledger-app 的失败与修复](https://github.com/hedongli1/hedongli1/blob/main/docs/03-aiscan实弹部署.md)
 - [aiscan 双项目接入：ledger-app 审计修复 + purple-team-lab 100/A 对照](https://github.com/hedongli1/hedongli1/blob/main/docs/04-aiscan双项目接入.md)
 - [收官报告：发布就绪实测 + 全旅程总结](https://github.com/hedongli1/hedongli1/blob/main/docs/05-收官报告.md)
+- [主页/博客改造 + 新项目 fin-intel-agent：视觉升级与内容填充](https://github.com/hedongli1/hedongli1/blob/main/docs/06-主页博客改造与新项目.md)
 
 ## GitHub 统计 · Stats
 
