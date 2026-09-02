@@ -1,86 +1,35 @@
-<!--
-  ══════════════════════════════════════════════════════════════
-  个人主页 README · hedongli1
-  ──────────────────────────────────────────────────────────────
-  使用方法：把这个文件放到名叫 hedongli1/hedongli1 的仓库根目录。
-  所有标记「TODO」的地方，用你的真实信息替换后重新提交即可。
+### Hi there, I'm hedongli1 👋
 
-  说明：为保持纯净、避免突兀的图片，本主页不放大图，全部用
-  打字机标题 + 徽章 + markdown 排版美化（GitHub 主页不支持自定义 CSS）。
-  ══════════════════════════════════════════════════════════════
--->
-
-<div align="center">
-
-<!-- 打字机动画标题（SVG 动画文字，不是静态图片，和文字流融为一体） -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=2600&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20hedongli1;Software%20Developer;Building%20and%20Learning%20in%20Public;Welcome%20to%20my%20GitHub" alt="Hi, I'm hedongli1" />
-
-<!-- 访问计数 + 社交徽章 -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hedongli1&color=F5A623&label=VISITORS&style=flat-square" alt="访问量" />
-  <a href="https://github.com/hedongli1"><img src="https://img.shields.io/badge/GitHub-hedongli1-F5A623?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://hedongli1.github.io"><img src="https://img.shields.io/badge/Blog-hedongli1.github.io-EA580C?style=flat-square&logo=jekyll&logoColor=white" alt="Blog" /></a>
-</p>
-
-</div>
-
-<!-- 终端风格介绍块：markdown 原生，无需图片，自带科技感 -->
-```console
-hedongli1@github:~$ whoami
-> 全栈开发者 · 专注安全工具与金融数据 Agent
-
-hedongli1@github:~$ cat ./about.md
-> 持续学习、持续构建。把想法变成能跑起来的代码，再把思考沉淀成文字。
-> 构建可验证的安全工具与全栈应用。A developer who learns by building.
-```
-
----
-
-## 技术栈 · Tech Stack
-
-> 均为仓库内真实用到的技术（见 [ledger-app](https://github.com/hedongli1/ledger-app) 与 [purple-team-lab](https://github.com/hedongli1/purple-team-lab)）
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,vue,express,sqlite,docker,nginx,git,github,linux&perline=5" alt="技术栈" />
+<p align="left">
+  <a href="https://hedongli1.github.io/"><img src="https://img.shields.io/badge/Website-Personal%20Blog-F5A623?style=flat&logo=google-chrome&logoColor=white" alt="Blog" /></a>
+  <a href="https://hedongli1.github.io/trending-radar/"><img src="https://img.shields.io/badge/Trending%20Radar-Live%20Board-38bdf8?style=flat&logo=github&logoColor=white" alt="Trending Radar" /></a>
+  <a href="https://hedongli1.github.io/aiscan/"><img src="https://img.shields.io/badge/aiscan-Security%20Patrol-10b981?style=flat&logo=githubactions&logoColor=white" alt="aiscan Patrol" /></a>
+  <img src="https://img.shields.io/badge/Focus-Security%20%7C%20AI%20Engineering%20%7C%20DevOps-blue?style=flat" alt="Focus" />
 </p>
 
 ---
 
-## 精选项目 · Featured Projects
+### 🚀 核心开源项目与自动化看板 (Featured Projects & Dashboards)
 
-| 项目 | 简介 | 技术 | 状态 | 链接 |
-|------|------|------|------|------|
-| **aiscan** 🛡️ | AI 辅助代码安全审计：零依赖静态扫描 + 熵启发式密钥检测 + SARIF + GitHub Action，14 条规则 | Node.js | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/aiscan/ci.yml?label=CI)](https://github.com/hedongli1/aiscan/actions) [![tests](https://img.shields.io/badge/tests-10%20passed-brightgreen)](https://github.com/hedongli1/aiscan) | [查看](https://github.com/hedongli1/aiscan) |
-| 紫队实验台 Purple Team Lab | 攻击模拟→检测验证：12 个 ATT&CK 场景 + Sigma-lite 规则引擎，覆盖率与缺口报告 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/purple-team-lab/ci.yml?label=CI)](https://github.com/hedongli1/purple-team-lab/actions) | [查看](https://github.com/hedongli1/purple-team-lab) |
-| 记账本 Ledger | 个人记账全栈应用：JWT 登录、收支管理、ECharts 统计图表，15 个端到端测试 | Vue3 · Express · SQLite | [![CI](https://img.shields.io/github/actions/workflow/status/hedongli1/ledger-app/ci.yml?label=CI)](https://github.com/hedongli1/ledger-app/actions) | [查看](https://github.com/hedongli1/ledger-app) |
-| **fin-intel-agent** 📈 | 金融定时监控 Agent：动态排行榜监控池 + 五维深采集，聚合推送飞书 | Python · akshare | [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://github.com/hedongli1/fin-intel-agent) | [查看](https://github.com/hedongli1/fin-intel-agent) |
-
-> 更多项目持续构建中，欢迎关注仓库动态。
-
----
-
-## 📁 项目运维记录 · Docs
-
-从零构建与运维这套 GitHub 项目体系的完整过程记录，含真实数据与审计案例：
-
-- [初始部署：仓库初始化 + CI + 认证](https://github.com/hedongli1/hedongli1/blob/main/docs/01-初始部署.md)
-- [aiscan 创建：AI 代码安全审计工具从 0 到 1](https://github.com/hedongli1/hedongli1/blob/main/docs/02-aiscan创建.md)
-- [aiscan 实弹部署：首次接入 ledger-app 的失败与修复](https://github.com/hedongli1/hedongli1/blob/main/docs/03-aiscan实弹部署.md)
-- [aiscan 双项目接入：ledger-app 审计修复 + purple-team-lab 100/A 对照](https://github.com/hedongli1/hedongli1/blob/main/docs/04-aiscan双项目接入.md)
-- [收官报告：发布就绪实测 + 全旅程总结](https://github.com/hedongli1/hedongli1/blob/main/docs/05-收官报告.md)
-- [主页/博客改造 + 新项目 fin-intel-agent：视觉升级与内容填充](https://github.com/hedongli1/hedongli1/blob/main/docs/06-主页博客改造与新项目.md)
-
-## GitHub 统计 · Stats
-
-<div align="center">
-  <!-- 统计卡：使用 stats.justsong.cn 国内镜像（github-readme-stats.vercel.app 在国内常被墙） -->
-  <img height="160" src="https://stats.justsong.cn/api/github?username=hedongli1&theme=gruvbox" alt="GitHub 统计" />
-</div>
+| 项目 / 看板 | 说明 | 技术栈 / 机制 | 在线入口 |
+| :--- | :--- | :--- | :--- |
+| 🛰️ **[trending-radar](https://github.com/hedongli1/trending-radar)** | **GitHub 开源热门与飙升项目风向标**<br>定时捕获全站高 Star、新建黑马与 AI 生态热度项目 | GitHub Actions · Node.js · Pages 自动化看板 | [👉 查看实时榜单](https://hedongli1.github.io/trending-radar/) |
+| 🛡️ **[aiscan](https://github.com/hedongli1/aiscan)** | **AI 辅助代码安全审计与开源巡检引擎**<br>零依赖静态分析 + 自动扫描与风险定级报告 | Node.js · AST启发 · GitHub Security SARIF | [👉 查看巡检看板](https://hedongli1.github.io/aiscan/) |
+| 🎯 **[purple-team-lab](https://github.com/hedongli1/purple-team-lab)** | **紫队攻防推演与安全基线验证实验平台**<br>真实攻击模拟、告警研判与自动化防御规则验证 | Vue 3 · Node.js · SQLite · Docker | [👉 访问代码仓库](https://github.com/hedongli1/purple-team-lab) |
+| 💰 **[ledger-app](https://github.com/hedongli1/ledger-app)** | **黑金极简风全栈资产与记账管理系统**<br>前后端分离开发与端到端自动化 CI 门禁 | Vue 3 · Express · SQLite · Vite | [👉 访问代码仓库](https://github.com/hedongli1/ledger-app) |
+| 🌐 **[hedongli1.github.io](https://github.com/hedongli1/hedongli1.github.io)** | **个人作品集与技术博客**<br>多层动态星空与旋转光锥背景设计 | Jekyll · Canvas · CSS3 · GitHub Pages | [👉 访问个人博客](https://hedongli1.github.io/) |
 
 ---
 
-<div align="center">
+### 📈 GitHub 动态与数据 (Stats)
 
-**欢迎来访 · 保持连接** — [GitHub](https://github.com/hedongli1) · [Blog](https://hedongli1.github.io)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hedongli1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B09&title_color=F5A623&icon_color=F5A623&text_color=CDC3B2" alt="hedongli1's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedongli1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B09&title_color=F5A623&text_color=CDC3B2" alt="Top Languages" />
+</p>
 
-</div>
+---
+
+### 📬 合作与交流 (Contact)
+- 个人博客：[hedongli1.github.io](https://hedongli1.github.io/)
+- GitHub：[@hedongli1](https://github.com/hedongli1)
