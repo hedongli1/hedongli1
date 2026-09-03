@@ -1,23 +1,20 @@
-### Hi there, I'm hedongli1 👋
+# 👋 Hi there, I'm hedongli1
 
 <p align="center">
   <strong>全栈开发者 · 安全工具 × 金融数据 Agent · DevOps 自动化爱好者</strong>
-  <br/>
-
-| [Personal Blog](https://hedongli1.github.io/) | [Trending Radar](https://hedongli1.github.io/trending-radar/) | [Security Patrol](https://hedongli1.github.io/aiscan/) |
-| :---: | :---: | :---: |
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/hedongli1?style=flat&logo=github&label=Followers&color=778899" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hedongli1?style=flat&logo=github&label=Total%20Stars&color=1E90FF" alt="Stars" />
-  <img src="https://img.shields.io/badge/dynamic/users?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhedongli1&query=public_repos&label=Public%20Repos&color=2E8B57" alt="Repos" />
-  <!-- 说明：stats 徽章由 shields 服务器端实时抓取 GitHub API，无需外部图片服务，移动端与桌面均稳定加载 -->
+  <a href="https://hedongli1.github.io/">&nbsp;<img src="https://img.shields.io/badge/Personal%20Blog-hedongli1.github.io-1f6feb?style=flat&logo=jekyll&logoColor=white" alt="Blog"/>&nbsp;</a>
+  <a href="https://hedongli1.github.io/trending-radar/">&nbsp;<img src="https://img.shields.io/badge/Trending%20Radar-Live%20Board-38bdf8?style=flat&logo=github&logoColor=white" alt="Trending Radar"/>&nbsp;</a>
+  <a href="https://hedongli1.github.io/aiscan/">&nbsp;<img src="https://img.shields.io/badge/aiscan-Security%20Patrol-10b981?style=flat&logo=githubactions&logoColor=white" alt="aiscan Patrol"/>&nbsp;</a>
 </p>
 
-<p align="center">
-  <b>Focus</b> · Security :shield: &nbsp; AI Engineering :brain: &nbsp; DevOps :gear:
-</p>
+<div align="center">
+
+**Focus** · 🛡️ Security &nbsp;&nbsp; 🧠 AI Engineering &nbsp;&nbsp; ⚙️ DevOps
+
+</div>
 
 ---
 
@@ -36,9 +33,11 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/hedongli1?style=for-the-badge&logo=github&label=Total%20Stars&color=F5A623&logoColor=white" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/dynamic/users?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhedongli1&query=public_repos&label=Public%20Repos&style=for-the-badge&color=2E8B57" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/dynamic/users?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhedongli1&query=followers&label=Followers&style=for-the-badge&color=8B5CF6" alt="Followers Live" />
+  <img src="https://img.shields.io/github/stars/hedongli1?style=for-the-badge&logo=github&label=Total%20Stars&color=1e3a8a&logoColor=white" alt="Total Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhedongli1&query=public_repos&label=Public%20Repos&style=for-the-badge&color=166534&logoColor=white" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/hedongli1?style=for-the-badge&logo=github&label=Followers&color=581c87&logoColor=white" alt="Followers" />
 </p>
 
 > ⚙️ 上方数据由 **shields.io 服务器端实时抓取 GitHub API** 生成——不依赖任何外部图片服务，桌面与移动端均稳定加载。原有的 `github-readme-stats` 卡片因该服务在当前网络不可达而换用此方案（备份见 `README.bak.md`）。
@@ -48,6 +47,6 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://hedongli1.github.io/"><img src="https://img.shields.io/badge/Blog-hedongli1.github.io-1f6feb?style=flat&logo=jekyll&logoColor=white" alt="Blog"/></a>
-  <a href="https://github.com/hedongli1"><img src="https://img.shields.io/badge/GitHub-@hedongli1-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://hedongli1.github.io/">&nbsp;<img src="https://img.shields.io/badge/Blog-hedongli1.github.io-1f6feb?style=flat&logo=jekyll&logoColor=white" alt="Blog"/>&nbsp;</a>
+  <a href="https://github.com/hedongli1">&nbsp;<img src="https://img.shields.io/badge/GitHub-%40hedongli1-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>&nbsp;</a>
 </p>
