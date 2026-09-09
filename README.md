@@ -22,8 +22,8 @@
 
 | Project | What it does | Stack | Online |
 | :--- | :--- | :--- | :---: |
-| 🛰️ [**trending-radar**](https://github.com/hedongli1/trending-radar) | GitHub 开源热门与飙升项目风向标，定时捕获高 Star、黑马与 AI 生态热度 | `Actions · Node · Pages` | [➜ Board](https://hedongli1.github.io/trending-radar/) |
-| 🛡️ [**aiscan**](https://github.com/hedongli1/aiscan) | AI 辅助代码安全审计与开源巡检引擎，零依赖静态分析 + 自动风险定级 | `Node.js · AST · SARIF` | [➜ Patrol](https://hedongli1.github.io/aiscan/) |
+| 🛰️ [**trending-radar**](https://github.com/hedongli1/trending-radar) | GitHub 开源热门与飙升项目风向标，定时捕获高 Star、黑马、AI 生态 + **安全双榜(加密流量检测 / AI 自动化攻防)** | `Actions · Node · Pages` | [➜ Board](https://hedongli1.github.io/trending-radar/) |
+| 🛡️ [**aiscan**](https://github.com/hedongli1/aiscan) | AI 辅助代码安全审计与开源巡检引擎，零依赖静态分析 + **30 样本基准 F1=100%（可复现）** | `Node.js · AST · SARIF` | [➜ Patrol](https://hedongli1.github.io/aiscan/) |
 | 🎯 [**purple-team-lab**](https://github.com/hedongli1/purple-team-lab) | 紫队攻防推演与安全基线验证平台，攻击模拟 + 告警研判 + 自动验证 | `Vue 3 · Node · SQLite` | [➜ Repo](https://github.com/hedongli1/purple-team-lab) |
 | 💰 [**ledger-app**](https://github.com/hedongli1/ledger-app) | 黑金极简风全栈资产记账管理，前后端分离 + CI 门禁 | `Vue 3 · Express · Vite` | [➜ Repo](https://github.com/hedongli1/ledger-app) |
 | 🌐 [**hedongli1.github.io**](https://github.com/hedongli1/hedongli1.github.io) | 个人作品集与技术博客，多层动态星空旋转光锥背景 | `Jekyll · Canvas · CSS3` | [➜ Blog](https://hedongli1.github.io/) |
