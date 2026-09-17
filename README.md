@@ -8,11 +8,12 @@
   <a href="https://hedongli1.github.io/">&nbsp;<img src="https://img.shields.io/badge/Personal%20Blog-hedongli1.github.io-1f6feb?style=flat&logo=jekyll&logoColor=white" alt="Blog"/>&nbsp;</a>
   <a href="https://hedongli1.github.io/trending-radar/">&nbsp;<img src="https://img.shields.io/badge/Trending%20Radar-Live%20Board-38bdf8?style=flat&logo=github&logoColor=white" alt="Trending Radar"/>&nbsp;</a>
   <a href="https://hedongli1.github.io/aiscan/">&nbsp;<img src="https://img.shields.io/badge/aiscan-Security%20Patrol-10b981?style=flat&logo=githubactions&logoColor=white" alt="aiscan Patrol"/>&nbsp;</a>
+  <a href="https://hedongli1.github.io/reverse-radar/">&nbsp;<img src="https://img.shields.io/badge/Reverse%20Radar-RE%20Trending-f97316?style=flat&logo=github&logoColor=white" alt="Reverse Radar"/>&nbsp;</a>
 </p>
 
 <div align="center">
 
-**Focus** · 🛡️ Security &nbsp;&nbsp; 🧠 AI Engineering &nbsp;&nbsp; ⚙️ DevOps
+**Focus** · 🛡️ Security &nbsp;&nbsp; 🔬 Reverse Engineering &nbsp;&nbsp; 🧠 AI Engineering &nbsp;&nbsp; ⚙️ DevOps
 
 </div>
 
@@ -23,6 +24,7 @@
 | Project | What it does | Stack | Online |
 | :--- | :--- | :--- | :---: |
 | 🛰️ [**trending-radar**](https://github.com/hedongli1/trending-radar) | GitHub 开源热门与飙升项目风向标，定时捕获高 Star、黑马、AI 生态 + **安全双榜(加密流量检测 / AI 自动化攻防)** | `Actions · Node · Pages` | [➜ Board](https://hedongli1.github.io/trending-radar/) |
+| 📡 [**reverse-radar**](https://github.com/hedongli1/reverse-radar) | 逆向工程动向雷达，每日追踪**二进制逆向 / 协议逆向**领域的新晋与飙升项目，基于自建 Star 快照算真实增速 | `Actions · Node · Pages` | [➜ Board](https://hedongli1.github.io/reverse-radar/) |
 | 🛡️ [**aiscan**](https://github.com/hedongli1/aiscan) | AI 辅助代码安全审计与开源巡检引擎，零依赖静态分析 + **30 样本基准 F1=100%（可复现）** | `Node.js · AST · SARIF` | [➜ Patrol](https://hedongli1.github.io/aiscan/) |
 | 🎯 [**purple-team-lab**](https://github.com/hedongli1/purple-team-lab) | 紫队攻防推演与安全基线验证平台，攻击模拟 + 告警研判 + 自动验证 | `Vue 3 · Node · SQLite` | [➜ Repo](https://github.com/hedongli1/purple-team-lab) |
 | 💰 [**ledger-app**](https://github.com/hedongli1/ledger-app) | 黑金极简风全栈资产记账管理，前后端分离 + CI 门禁 | `Vue 3 · Express · Vite` | [➜ Repo](https://github.com/hedongli1/ledger-app) |
