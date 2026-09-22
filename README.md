@@ -30,6 +30,8 @@
 | 🛡️ [**aiscan**](https://github.com/hedongli1/aiscan) | AI 辅助代码安全审计与开源巡检引擎，零依赖静态分析 + **30 样本基准 F1=100%（可复现）** | `Node.js · AST · SARIF` | [➜ Patrol](https://hedongli1.github.io/aiscan/) |
 | 🎯 [**purple-team-lab**](https://github.com/hedongli1/purple-team-lab) | 紫队攻防推演与安全基线验证平台，攻击模拟 + 告警研判 + 自动验证 | `Vue 3 · Node · SQLite` | [➜ Repo](https://github.com/hedongli1/purple-team-lab) |
 | 💰 [**ledger-app**](https://github.com/hedongli1/ledger-app) | 黑金极简风全栈资产记账管理，前后端分离 + CI 门禁 | `Vue 3 · Express · Vite` | [➜ Repo](https://github.com/hedongli1/ledger-app) |
+| 📰 [**ai-daily**](https://github.com/hedongli1/ai-daily) | AI 每日资讯自动聚合管线，定时抓取 + 整理并自动部署 Pages 日报 | `Actions · Node · Pages` | [➜ Repo](https://github.com/hedongli1/ai-daily) |
+| 💹 [**fin-intel-agent**](https://github.com/hedongli1/fin-intel-agent) | 金融数据 Agent，定时依赖更新与数据管线维护 | `Python · Actions` | [➜ Repo](https://github.com/hedongli1/fin-intel-agent) |
 | 🌐 [**hedongli1.github.io**](https://github.com/hedongli1/hedongli1.github.io) | 个人作品集与技术博客，多层动态星空旋转光锥背景 | `Jekyll · Canvas · CSS3` | [➜ Blog](https://hedongli1.github.io/) |
 
 ---
